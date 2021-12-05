@@ -6,9 +6,9 @@ Metrics:
 - Population density
 
 Project structure:
-- data_gathering.py    used for data gathering 
-- main.py      Application File 
+- data_gathering.py   -> used for data gathering 
+- main.py  ->    Application File 
 
-* Data source: WorldBank
+Data source: WorldBank
 
 Made with Plotly's Dash
